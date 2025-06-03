@@ -1,9 +1,9 @@
 |[SN]  [Username]         [FirstName]        [LastName]          [UGNO:]          [Date:DD/MM/YYYY]
 +____+___________________+__________________+___________________+________________+_________________+
 | 0.   CodeCraft_Circle    CodeCraft          Circle              UG23ICT/CSC00   01/06/2025
-| 1.   King_Azore	   Mustapha	      Yusuf 		  UG23/CSC/1026	  02/06/2025
+| 1.   King_Azore	       Mustapha	          Yusuf 	    	  UG23/CSC/1026	  02/06/2025
 | 2.   IbrahimCPS          Ibrahim            Salisu              UG23ICT1082     02/06/2025
-| 3.    Abdullahi          hassan    garba    UG23ICT1042      03/06/2025
+| 3.   Abdullahi           Hassan             Garba               UG23ICT1042     03/06/2025
 | 4.
 | 5.
 | 6.
