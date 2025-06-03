@@ -4,7 +4,7 @@
 | 1.   King_Azore          Mustapha           Yusuf               UG23/CSC/1026   02/06/2025
 | 2.   IbrahimCPS          Ibrahim            Salisu              UG23ICT1082     02/06/2025
 | 3.   Abdullahi           Hassan             Garba               UG23ICT1042     03/06/2025
-| 4.
+| 4.   pcVersion           Pc                 Version             UG23ICT/CSC     07/06/2025
 | 5.
 | 6.
 | 7.
