@@ -1,6 +1,6 @@
 Student Roster! by <CodeCraft Circle> [Team]
 
-[some vodeos link share] : https://drive.google.com/drive/folders/12Eaw1kEeuhPtBPldbO8CSlmsVni_NhH_
+[some videos link share] : https://drive.google.com/drive/folders/12Eaw1kEeuhPtBPldbO8CSlmsVni_NhH_
 
 Project: Student Roster
 
